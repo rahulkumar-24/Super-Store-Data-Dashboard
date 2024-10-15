@@ -20,7 +20,7 @@ Curious to dive into the details? Check out my interactive Tableau dashboard: ht
 
 ## Dashboard View
 
-![Alt text for the image](Screenshot 2024-10-15 140227.png)
+<img src = 'Screenshot 2024-10-15 140227.png'>
 
 
 ## Installation
