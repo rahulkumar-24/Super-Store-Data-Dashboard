@@ -20,6 +20,8 @@ Curious to dive into the details? Check out my interactive Tableau dashboard: ht
 
 ## Dashboard View
 
+<img src = Screenshot 2024-10-15 140227.png>
+
 ## Installation
 
 To view the dashboard, simply click on the link provided above. No additional setup is required.
